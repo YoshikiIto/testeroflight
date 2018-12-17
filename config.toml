@@ -1,0 +1,17 @@
+baseurl = "https://testeroflight.net/"
+title = "Tester of Light"
+author = "Yoshiki Ito"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Tester of Light"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = "/pages/about/"
